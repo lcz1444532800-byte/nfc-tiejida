@@ -1,0 +1,26 @@
+# Build caches and scratch space
+caches/
+work/
+**/build/
+**/oh_modules/
+.hvigor/
+__pycache__/
+*.pyc
+
+# Device logs and app dumps from testing (contain device identifiers)
+evidence/
+
+# Private release notes, hand-off and client documents (Chinese, account details)
+docs/LISTING.md
+docs/HANDOFF_CODEX.md
+docs/REPORT.md
+docs/client-report.html
+docs/store/screenshot_*.png
+
+# Signing material must never be committed (it lives outside this folder)
+*.p12
+*.cer
+*.csr
+*.p7b
+*keystore-password*
+material/

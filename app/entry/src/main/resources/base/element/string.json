@@ -1,0 +1,1 @@
+{"string":[{"name":"app_name","value":"NFC贴即达"},{"name":"module_desc","value":"碰一下 NFC 贴纸，打开绑定的应用"},{"name":"dispatch_label","value":"NFC贴即达"},{"name":"nfc_reason","value":"读取碰到手机的 NFC 贴纸或卡片标识，用于打开你绑定的应用"}]}

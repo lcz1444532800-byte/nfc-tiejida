@@ -1,0 +1,14 @@
+{"color":[
+  {"name":"start_window_background","value":"#11161C"},
+  {"name":"bg","value":"#11161C"},
+  {"name":"surface","value":"#19212B"},
+  {"name":"text","value":"#E5EAF0"},
+  {"name":"subtext","value":"#9AA7B5"},
+  {"name":"line","value":"#2B3643"},
+  {"name":"accent","value":"#7FB0EA"},
+  {"name":"accent_soft","value":"#1D2C3E"},
+  {"name":"on_accent","value":"#0E1621"},
+  {"name":"danger","value":"#EC8B8B"},
+  {"name":"warn_soft","value":"#352A15"},
+  {"name":"warn","value":"#E6B45C"}
+]}

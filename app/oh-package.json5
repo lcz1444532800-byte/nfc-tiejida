@@ -1,0 +1,8 @@
+{
+  "modelVersion": "26.0.0",
+  "name": "nfc-launcher",
+  "version": "0.1.0",
+  "description": "NFC tag -> bound app launcher (feasibility)",
+  "dependencies": {},
+  "devDependencies": {}
+}
